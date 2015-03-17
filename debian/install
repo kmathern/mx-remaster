@@ -1,0 +1,4 @@
+RemasterCC.desktop   usr/share/applications/mx
+locale/*             usr/share/locale
+bin/*                usr/local/bin
+icons/*              usr/share/mx-remaster/icons

@@ -1,0 +1,41 @@
+mx-remaster (0.1.4mx140+2) mx; urgency=low
+
+  * RemasterCC.desktop, remove Icon path 
+
+ -- Kent Mathern <maintainer@mepiscommunity.org>  Tue, 17 Mar 2015 10:17:59 -0400
+
+mx-remaster (0.1.4mx140+1) mx; urgency=low
+
+  * renamed to mx-remaster
+  * Help button and MX logo added
+
+ -- Kent Mathern <maintainer@mepiscommunity.org>  Sat, 07 Mar 2015 10:50:33 -0500
+
+remaster-mx (0.1.3) unstable; urgency=low 
+ 
+  * Updated .desktop files to include ca,de,el,es,fr,it,ja,sv.
+  * Bug-fix persist-save (alsactl store)
+
+ -- anticapitalista <antiX@operamail.com>  Tues, 18 Nov 2014 21:02:00 +0200
+
+
+remaster-mx (0.1.2) unstable; urgency=low 
+ 
+  * Added more feedback to persist-config.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 07 Mar 2014 18:45:00 +0200
+
+
+remaster-mx (0.1.1) unstable; urgency=low 
+ 
+  * Added persist-config to remastercc.sh.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 09 February 2014 16:40:00 +0200
+
+
+remaster-mx (0.1.0) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 02 February 2014 14:30:00 +0200
+

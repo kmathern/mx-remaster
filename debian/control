@@ -1,0 +1,21 @@
+Source: mx-remaster
+Section: system
+Priority: required
+Maintainer: anticapitalista <antiX@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: mx-remaster
+Depends: antix-libs
+Breaks: remaster-mx
+Replaces: remaster-mx
+Architecture: all
+Description: Tools for live persistence and remastering.        
+
+Package: remaster-mx
+Depends: mx-remaster (>= 0.1.4)
+Architecture: all
+Description: transitional dummy package for mx-remaster upgrade        
+ Transitional dummy package for mx-remaster upgrade.  It can safely be removed
+ after the upgrade.
