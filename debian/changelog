@@ -1,3 +1,9 @@
+mx-remaster (0.1.4mx140+3) mx; urgency=low
+
+  * update help link
+
+ -- Kent Mathern <maintainer@mepiscommunity.org>  Fri, 20 Mar 2015 19:36:36 -0400
+
 mx-remaster (0.1.4mx140+2) mx; urgency=low
 
   * RemasterCC.desktop, remove Icon path 
